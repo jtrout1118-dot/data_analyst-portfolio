@@ -1,0 +1,20 @@
+Project: Walmart Sales Analysis (SQL Project)
+
+Business Question:
+- Which Walmart stores perform the best?
+
+SQL Queries:
+- best_performing_stores.sql
+- avg_weekly_sales.sql
+- holiday_sales.sql
+
+Key Insights:
+- Store 20 has the highest total sales of $6,737,218,987.11, showing it outperforms the other stores consistently.
+- The average weekly sales for Store 20 is $1,046,964.88.
+- Sales during holiday weeks are higher compared to non-holiday weeks.
+✅ Resume / Portfolio Text
+SQL Project: Walmart Sales Analysis
+- Imported Walmart sales data and ran SQL queries to analyze top-performing stores, average weekly sales, and holiday effects.
+- Generated insights: Store 20 was identified as the top-performing store with total sales of $6,737,218,987.11 and an average weekly sales of $1,046,964.88.
+- Results presented in CSV and charts for easy visualization.
+
