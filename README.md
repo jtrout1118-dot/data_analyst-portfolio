@@ -9,3 +9,9 @@ This project uses Walmart sales data containing information about store performa
 - Number of rows: 6436
 - Number of columns: 8
 - Key fields: Store, Date, Weekly_Sales, Holiday_Flag, Temperature, Fuel_Price, CPI, Unemployment
+
+## Tools Used
+- SQL
+- Power BI
+- Excel
+- CSV files
