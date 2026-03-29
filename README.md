@@ -27,3 +27,12 @@ This project uses Walmart sales data containing information about store performa
 - Store 20 generates the highest total weekly sales, making it the top-performing location and a prime candidate for increased inventory, staffing, and promotional focus.
 - Non-holiday weeks account for most total sales because they occur far more often, but holiday weeks consistently produce higher sales per week. This pattern highlights when Walmart should scale staffing, inventory, and marketing to capture peak demand.
 - Total weekly sales fluctuate from year to year, with performance peaking in 2011 before declining in 2012. These shifts reflect underlying weekly patterns—such as holiday surges—that shape annual totals and support long-term planning decisions.
+
+## SQL Queries
+
+### 1. Total Sales by Store
+```sql
+SELECT Store, SUM(Weekly_Sales) AS total_sales
+FROM walmart
+GROUP BY Store
+ORDER BY total_sales DESC;
