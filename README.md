@@ -36,10 +36,18 @@ SELECT Store, SUM(Weekly_Sales) AS total_sales
 FROM walmart
 GROUP BY Store
 ORDER BY total_sales DESC;
+
 SELECT Holiday_Flag, AVG(Weekly_Sales) AS avg_sales
 FROM walmart
 GROUP BY Holiday_Flag;
+
 SELECT Store, AVG(Weekly_Sales) AS avg_weekly_sales
 FROM walmart
 GROUP BY Store
 ORDER BY avg_weekly_sales DESC;
+
+## Power BI Dashboard
+This interactive dashboard visualizes key sales trends across Walmart stores, including total weekly sales, holiday vs. non-holiday performance, and year-to-year changes. It provides a clear view of demand patterns and supports data-driven decisions for staffing, inventory, and promotions.
+
+**Power BI File:**  
+[Click here to view the dashboard](./Walmart_Sales.pbix)
