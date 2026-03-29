@@ -50,4 +50,4 @@ ORDER BY avg_weekly_sales DESC;
 This interactive dashboard visualizes key sales trends across Walmart stores, including total weekly sales, holiday vs. non-holiday performance, and year-to-year changes. It provides a clear view of demand patterns and supports data-driven decisions for staffing, inventory, and promotions.
 
 **Power BI File:**  
-[Click here to view the dashboard](./Walmart_Sales.pbix)
+[Click here to view the dashboard](./Walmart_powerBI.pbix)
