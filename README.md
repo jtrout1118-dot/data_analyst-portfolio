@@ -15,3 +15,10 @@ This project uses Walmart sales data containing information about store performa
 - Power BI
 - Excel
 - CSV files
+
+## Process
+- Cleaned and prepared the Walmart sales dataset.
+- Wrote SQL queries to analyze store performance and average weekly sales.
+- Identified top-performing stores and key sales trends.
+- Exported SQL results to CSV for visualization.
+- Built an interactive Power BI dashboard to present insights.
