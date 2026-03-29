@@ -22,3 +22,8 @@ This project uses Walmart sales data containing information about store performa
 - Identified top-performing stores and key sales trends.
 - Exported SQL results to CSV for visualization.
 - Built an interactive Power BI dashboard to present insights.
+
+## Key Insights
+- Store 20 generates the highest total weekly sales, making it the top-performing location and a prime candidate for increased inventory, staffing, and promotional focus.
+- Non-holiday weeks account for most total sales because they occur far more often, but holiday weeks consistently produce higher sales per week. This pattern highlights when Walmart should scale staffing, inventory, and marketing to capture peak demand.
+- Total weekly sales fluctuate from year to year, with performance peaking in 2011 before declining in 2012. These shifts reflect underlying weekly patterns—such as holiday surges—that shape annual totals and support long-term planning decisions.
