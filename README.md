@@ -51,3 +51,5 @@ This interactive dashboard visualizes key sales trends across Walmart stores, in
 
 **Power BI File:**  
 [Click here to view the dashboard](./Walmart_powerBI.pbix)
+
+Screenshot 2026-03-29 180428.png
