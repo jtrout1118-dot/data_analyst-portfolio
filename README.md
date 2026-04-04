@@ -46,5 +46,5 @@ FROM walmart
 GROUP BY Store
 ORDER BY avg_weekly_sales DESC;
 
-![Screenshot 2026-03-29 180428](./Screenshot%202026-03-29%20180428.png)
+![Screenshot](./Screenshot%202026-03-29%20180428.png)
 Screenshot 2026-03-29 180428.png
