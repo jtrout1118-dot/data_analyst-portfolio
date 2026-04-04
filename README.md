@@ -46,9 +46,4 @@ FROM walmart
 GROUP BY Store
 ORDER BY avg_weekly_sales DESC;
 
-## Power BI Dashboard
-This interactive dashboard visualizes key sales trends across Walmart stores, including total weekly sales, holiday vs. non-holiday performance, and year-to-year changes. It provides a clear view of demand patterns and supports data-driven decisions for staffing, inventory, and promotions.
-
-[Walmart PowerBI Dashboard](./Walmart%20_powerBI.pbix)
-[Screenshot Walmart PowerBI](./Screenshot%20Walmart%20PowerBI.png)
-[Screenshot Excel Burnout vs Study Hours](./Screenshot%20Excel%20Burnout%20vs%20Study%20hours.png)
+![Screenshot 2026-03-29 180428](./Screenshot%202026-03-29%20180428.png)
